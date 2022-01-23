@@ -1,4 +1,14 @@
-# Web and Api Automation with cypress
+
+## Description
+Web and API Automation testing using Cypress and JavaScript. <br>
+### Web
+- The Test uses the page object framework and BDD Cucumber framework.
+- The data is being used from a JSON file in the fixtures directory, and from environment variables from cypress.json.
+- Through the command line we can choose on which browser to run, and to run headed or headless.
+- Reports can be generated with cypress dashboard or any reporter built for Mocha.
+### API
+- API Test using Cypress Requests.
+- Mock Network responses With Cypress Intercept.
 
 # _My Work_
 
